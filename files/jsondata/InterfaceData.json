@@ -1940,6 +1940,10 @@
       "inh": "",
       "impl": []
     },
+    "IntegrityPolicyViolationReportBody": {
+      "inh": "ReportBody",
+      "impl": []
+    },
     "InterestGroupBiddingAndScoringScriptRunnerGlobalScope": {
       "inh": "InterestGroupScriptRunnerGlobalScope",
       "impl": []
@@ -2005,6 +2009,10 @@
       "impl": []
     },
     "KHR_parallel_shader_compile": {
+      "inh": "",
+      "impl": []
+    },
+    "LanguageDetector": {
       "inh": "",
       "impl": []
     },
@@ -2642,6 +2650,10 @@
     },
     "PointerEvent": {
       "inh": "MouseEvent",
+      "impl": []
+    },
+    "PointerTimeline": {
+      "inh": "AnimationTimeline",
       "impl": []
     },
     "PopStateEvent": {
@@ -3778,6 +3790,10 @@
     },
     "TransitionEvent": {
       "inh": "Event",
+      "impl": []
+    },
+    "Translator": {
+      "inh": "",
       "impl": []
     },
     "TreeWalker": {
